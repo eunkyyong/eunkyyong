@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eunkyong Choi.</h1>
-<h3 align="center">A perpetual learner-the expected IT intern- from South Korea.</h3>
+<h3 align="center">A perpetual learner -the expected IT intern- from South Korea.</h3>
 
 - 🔭 I’m currently working on **bootcamp, Samsung Software Academy for Youth**
 
