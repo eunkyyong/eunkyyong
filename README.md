@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **eunkyyong@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1I1ShAbUthEdwu5-cHNujOoq-aH64w3C3i0__LwIUx7k/edit?usp=sharing](https://docs.google.com/document/d/1I1ShAbUthEdwu5-cHNujOoq-aH64w3C3i0__LwIUx7k/edit?usp=sharing)
+- 📄 Know about my experiences https://www.notion.so/eunkyongannachoi/CV-60dbd558550c4c4ca4e19702620deedc?pvs=4
 
 - ⚡ Fun fact **I think the world is beautiful**
 
